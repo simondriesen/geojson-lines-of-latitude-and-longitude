@@ -1,0 +1,486 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-90"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -90], [180, -90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-80"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -85], [180, -85]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-80"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -80], [180, -80]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-75"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -75], [180, -75]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-70"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -70], [180, -70]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-65"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -65], [180, -65]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -60], [180, -60]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-55"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -55], [180, -55]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -50], [180, -50]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-45"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -45], [180, -45]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-40"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -40], [180, -40]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-35"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -35], [180, -35]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -30], [180, -30]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-25"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -25], [180, -25]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -20], [180, -20]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-15"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -15], [180, -15]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -10], [180, -10]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -5], [180, -5]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 0], [180, 0]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 5], [180, 5]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 10], [180, 10]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "15"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 15], [180, 15]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 20], [180, 20]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "25"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 25], [180, 25]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 30], [180, 30]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "35"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 35], [180, 35]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "40"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 40], [180, 40]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "45"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 45], [180, 45]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 50], [180, 50]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "55"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 55], [180, 55]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 60], [180, 60]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "65"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 65], [180, 65]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "70"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 70], [180, 70]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "75"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 75], [180, 75]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "80"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 80], [180, 80]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "85"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 85], [180, 85]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "latitude",
+        "value": "90"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-180, 90], [180, 90]
+        ]
+      }
+    }
+  ]
+}
