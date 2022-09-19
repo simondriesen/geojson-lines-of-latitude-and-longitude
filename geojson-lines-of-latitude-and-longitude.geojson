@@ -481,6 +481,942 @@
           [-180, 90], [180, 90]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-175"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-175, -90], [-175, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-170"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-170, -90], [-170, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-165"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-165, -90], [-165, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-160"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-160, -90], [-160, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-155"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-155, -90], [-155, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-150"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-150, -90], [-150, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-145"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-145, -90], [-145, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-140"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-140, -90], [-140, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-135, -90], [-135, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-130"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-130, -90], [-130, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-125"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-125, -90], [-125, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-120"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-120, -90], [-120, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-115"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-115, -90], [-115, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-110"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110, -90], [-110, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-105"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-105, -90], [-105, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-100"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-100, -90], [-100, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-95"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-95, -90], [-95, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-90"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-90, -90], [-90, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-85"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-85, -90], [-85, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-80"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-80, -90], [-80, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-75"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-75, -90], [-75, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-70"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-70, -90], [-70, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-65"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-65, -90], [-65, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-60, -90], [-60, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-55"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-55, -90], [-55, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-50, -90], [-50, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-45"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-45, -90], [-45, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-40"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-40, -90], [-40, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-35"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-35, -90], [-35, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-30, -90], [-30, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-25"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-25, -90], [-25, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-20, -90], [-20, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-15"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-15, -90], [-15, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-10, -90], [-10, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-5, -90], [-5, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [0, -90], [0, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5, -90], [5, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10, -90], [10, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "15"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [15, -90], [15, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "20"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [20, -90], [20, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "25"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [25, -90], [25, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [30, -90], [30, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "35"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35, -90], [35, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "40"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [40, -90], [40, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "45"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [45, -90], [45, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "50"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [50, -90], [50, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "55"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [55, -90], [55, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "60"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [60, -90], [60, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "65"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [65, -90], [65, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "70"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [70, -90], [70, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "75"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [75, -90], [75, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "80"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [80, -90], [80, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "85"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [85, -90], [85, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "90"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [90, -90], [90, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "95"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [95, -90], [95, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "100"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [100, -90], [100, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "105"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [105, -90], [105, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "110"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [110, -90], [110, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "115"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [115, -90], [115, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "120"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [120, -90], [120, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "125"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [125, -90], [125, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "130"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [130, -90], [130, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "135"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [135, -90], [135, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "140"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [140, -90], [140, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "145"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [145, -90], [145, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "150"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [150, -90], [150, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "155"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [155, -90], [155, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "160"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [160, -90], [160, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "165"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [165, -90], [165, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "170"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [170, -90], [170, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "175"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [175, -90], [175, 90]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "longitude",
+        "value": "180"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [180, -90], [180, 90]
+        ]
+      }
     }
   ]
 }
